@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/shuvox33",
   resume:
-    "https://drive.google.com/file/d/1D8Q34YDVaFlI6Cy-HGectRAVqYKvbIHi/view?usp=sharing",
+    "https://drive.google.com/file/d/113phJGwjNJRHiVDEq79u_C1Q-z7S5RyW/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shuvox33/",
   twitter: "https://twitter.com/shuvox33",
   facebook: "https://www.facebook.com/shuvox33/",
@@ -115,17 +115,17 @@ export const skills = [
   //   ],
   // },
   {
-    title: "Others",
+    title: "WordPress",
     skills: [
       {
-        name: "Git",
+        name: "WooCommerce",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDozSsveUpBGonZSmtrTXTB-OUGygegMijWg&shttps://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
       },
       {
-        name: "GitHub",
+        name: "Elementor",
         image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrKTUwi1w5M0qLLm0PqbqkGjrQJzIlhmLhQ&shttps://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
       // {
       //   name: "Docker",
@@ -133,14 +133,15 @@ export const skills = [
       //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
       // },
       {
-        name: "Netlify",
+        name: "JetEngine",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicnTHDD5ZdNpJLRjtSNl7pNs3STBXqnjwuA&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf66d95VYM-sK2viVHYh5w4RmPPBdU4Yl3lQ&shttps://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
       {
-        name: "VS Code",
+        name: "Divi",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf66d95VYM-sK2viVHYh5w4RmPPBdU4Yl3lQ&shttps://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          
       },
       // {
       //   name: "Postman",
@@ -152,11 +153,11 @@ export const skills = [
       //   image:
       //     "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
       // },
-      {
-        name: "Figma",
-        image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
-      },
+      // {
+      //   name: "Figma",
+      //   image:
+      //     "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+      // },
     ],
   },
 ];
@@ -299,20 +300,20 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Teach Source",
+    title: "Inven Surgical Solutions",
     date: "Aug 2023 - Sep 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, buy, and sell their favorite products on our website. Implemented user authentication using Google Auth , made responsive user interface with React JS that provides users with a seamless experience across all devices.",
+      "E-commerce platform, User Authentication, Product Listing & Management, Secure Payment Gateway,Custom Inventory Management, Admin Dashboard for Product Control, Sustainability-Focused Resale System. ",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
+    tags: ["WordPress", "WooCommerce", "Elementor",],
     category: "web app",
-    github: "https://github.com/shuvox33/tech-source",
-    webapp: "https://a10-tech-source.web.app/",
+    // github: "https://github.com/shuvox33/tech-source",
+    webapp: "https://invensurgical.com/",
   },
   {
     id: 1,
-    title: "Hunger Help",
+    title: "Food Delivery System",
     date: "Sep 2023 - Oct 2023",
     description:
       "Developed a full-stack web application that allows users to share their extra food for poor people on our website. Implemented user authentication using Google Auth , made responsive user interface with React JS that provides users with a seamless experience across all devices.",
@@ -326,7 +327,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/shuvox33/hunger-help",
-    webapp: "https://a11-hunger-help.web.app/",
+    webapp: "https://food-ordering-client-two.vercel.app/",
   },
   {
     id: 2,
