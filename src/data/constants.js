@@ -298,8 +298,45 @@ export const education = [
 ];
 
 export const projects = [
+
   {
     id: 0,
+    title: "Food Delivery System",
+    date: "Sep 2024 - Oct 2024",
+    description:
+      "Developed a full-stack web application that allows users to order food Online. Implemented user authentication using Google Auth , made responsive user interface with React JS that provides users with a seamless experience across all devices.",
+    image:
+      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+    ],
+    category: "web app",
+    github: "https://github.com/shuvox33/food_delivery_client",
+    webapp: "https://food-ordering-client-two.vercel.app/",
+  },
+  {
+    id: 1,
+    title: "Car Wash Service",
+    date: "Nov 2024 - Dec 2024",
+    description:
+      "A car wash and service booking platform that allows users to explore car maintenance services, compare options, and schedule appointments. ",
+    image:
+      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    tags: ["React Js",
+    "MongoDb",
+    "Node Js",
+    "Express Js",
+    "Tailwind"
+  ],
+    category: "machine learning",
+    github: "https://github.com/shuvox33/car_spa",
+    webapp: "https://autospa-client.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Inven Surgical Solutions",
     date: "Aug 2023 - Sep 2023",
     description:
@@ -310,42 +347,6 @@ export const projects = [
     category: "web app",
     // github: "https://github.com/shuvox33/tech-source",
     webapp: "https://invensurgical.com/",
-  },
-  {
-    id: 1,
-    title: "Food Delivery System",
-    date: "Sep 2023 - Oct 2023",
-    description:
-      "Developed a full-stack web application that allows users to share their extra food for poor people on our website. Implemented user authentication using Google Auth , made responsive user interface with React JS that provides users with a seamless experience across all devices.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-    ],
-    category: "web app",
-    github: "https://github.com/shuvox33/hunger-help",
-    webapp: "https://food-ordering-client-two.vercel.app/",
-  },
-  {
-    id: 2,
-    title: "Learn Logix",
-    date: "Nov 2023 - Dec 2023",
-    description:
-      "Developed a full-stack web application for create a good learning platform where student and teacher can join on our website. Implemented user authentication using Google Auth , made responsive user interface with React JS that provides users with a seamless experience across all devices.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["React Js",
-    "MongoDb",
-    "Node Js",
-    "Express Js",
-    "Tailwind"
-  ],
-    category: "machine learning",
-    github: "https://github.com/shuvox33/learn-logix",
-    webapp: "https://a12-learn-logix.web.app/",
   },
 ];
 
