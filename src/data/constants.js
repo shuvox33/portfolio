@@ -114,52 +114,52 @@ export const skills = [
   //     },
   //   ],
   // },
-  {
-    title: "WordPress",
-    skills: [
-      {
-        name: "WooCommerce",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDozSsveUpBGonZSmtrTXTB-OUGygegMijWg&shttps://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
-      },
-      {
-        name: "Elementor",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrKTUwi1w5M0qLLm0PqbqkGjrQJzIlhmLhQ&shttps://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-      },
-      // {
-      //   name: "Docker",
-      //   image:
-      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-      // },
-      {
-        name: "JetEngine",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicnTHDD5ZdNpJLRjtSNl7pNs3STBXqnjwuA&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf66d95VYM-sK2viVHYh5w4RmPPBdU4Yl3lQ&shttps://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
-      },
-      {
-        name: "Divi",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf66d95VYM-sK2viVHYh5w4RmPPBdU4Yl3lQ&shttps://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
-          
-      },
-      // {
-      //   name: "Postman",
-      //   image:
-      //     "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
-      // },
-      // {
-      //   name: "Adobe XD",
-      //   image:
-      //     "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
-      // },
-      // {
-      //   name: "Figma",
-      //   image:
-      //     "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
-      // },
-    ],
-  },
+  // {
+  //   title: "WordPress",
+  //   skills: [
+  //     {
+  //       name: "WooCommerce",
+  //       image:
+  //         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDozSsveUpBGonZSmtrTXTB-OUGygegMijWg&shttps://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+  //     },
+  //     {
+  //       name: "Elementor",
+  //       image:
+  //         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrKTUwi1w5M0qLLm0PqbqkGjrQJzIlhmLhQ&shttps://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  //     },
+  //     // {
+  //     //   name: "Docker",
+  //     //   image:
+  //     //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+  //     // },
+  //     {
+  //       name: "JetEngine",
+  //       image:
+  //         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicnTHDD5ZdNpJLRjtSNl7pNs3STBXqnjwuA&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf66d95VYM-sK2viVHYh5w4RmPPBdU4Yl3lQ&shttps://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+  //     },
+  //     {
+  //       name: "Divi",
+  //       image:
+  //         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf66d95VYM-sK2viVHYh5w4RmPPBdU4Yl3lQ&shttps://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+
+  //     },
+  //     // {
+  //     //   name: "Postman",
+  //     //   image:
+  //     //     "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+  //     // },
+  //     // {
+  //     //   name: "Adobe XD",
+  //     //   image:
+  //     //     "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+  //     // },
+  //     // {
+  //     //   name: "Figma",
+  //     //   image:
+  //     //     "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+  //     // },
+  //   ],
+  // },
 ];
 
 export const experiences = [
@@ -272,7 +272,7 @@ export const education = [
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
     school: "Pundra University of Science & Technology",
-    date: "Jan 2019 - Dec 2023",
+    date: "Jan 2019 - Jan 2024",
     grade: "3.50 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Pundra University of Science & Technology, Bogura. I have completed 8 semesters and have a CGPA of 3.50. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
     degree: "BSc in CSE",
